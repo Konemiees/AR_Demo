@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mainos" size="1.000000 0.958781" />
+    <ImageTarget name="Aasi" size="1.000000 0.778846" />
+    <ImageTarget name="kartta" size="1.000000 0.730942" />
+    <ImageTarget name="blogi" size="1.000000 1.121646" />
+    <ImageTarget name="Panic" size="1.000000 0.864802" />
+  </Tracking>
+</QCARConfig>
